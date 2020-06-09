@@ -28,7 +28,7 @@ print(bi+''' \t _____     _        _   _
 \t|_|  \__,_|_|\_\___|\___/|___/\___|_|\n''')
 print('\t\t{}[ {}MH - Ozil {}]\n').format(me,pu,me)
 print('\t{}Author{}: {}Mr. Mbah Ozil {}/ {}Ozil').format(cy,me,pu,me,pu)
-print('\t{}Team{}: {}Black Coder Crush').format(cy,me,pu)
+print('\t{}Team{}: {}MH - Ozil').format(cy,me,pu)
 
 print('\t'+i+'_'*40)
 
