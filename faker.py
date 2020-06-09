@@ -4,7 +4,7 @@
 import requests, os, sys, time, getpass
 
 """
-Author:MbahOzil
+Make: 7 june, 2020
 """
 
 bi = '\x1b[34;1m'
@@ -26,8 +26,8 @@ print(bi+''' \t _____     _        _   _
 \t| |_ / _` | |/ / _ \ | | / __|/ _ \ '__|
 \t|  _| (_| |   <  __/ |_| \__ \  __/ |
 \t|_|  \__,_|_|\_\___|\___/|___/\___|_|\n''')
-print('\t\t{}[ {}KEEP ALIVE MH-OZIL {}]\n').format(me,pu,me)
-print('\t{}Author{}: {}Mr. Mbah Ozil {}/ {}Cracker').format(cy,me,pu,me,pu)
+print('\t\t{}[ {}MH - Ozil {}]\n').format(me,pu,me)
+print('\t{}Author{}: {}Mr. Mbah Ozil {}/ {}Ozil').format(cy,me,pu,me,pu)
 print('\t{}Team{}: {}Black Coder Crush').format(cy,me,pu)
 
 print('\t'+i+'_'*40)
@@ -68,3 +68,5 @@ else:
 
 """
 Don't recode !!
+Reedit? Write Author
+"""
